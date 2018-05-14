@@ -1,0 +1,11 @@
+[料理佳餚] 在 Windows 上安裝 Redis
+https://dotblogs.com.tw/supershowwei/2015/12/23/124549
+
+[No bean named 'springSessionRepositoryFilter' is defined]
+http://www.cnblogs.com/aligege/p/6953208.html
+
+[Redis + Jedis + Spring整合遇到的异常]
+http://zhaobing315.iteye.com/blog/2082189
+
+[分布式Session之使用Spring-Session & Redis实现]
+https://my.oschina.net/wangmengjun/blog/816571
