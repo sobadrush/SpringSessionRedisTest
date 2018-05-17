@@ -9,3 +9,6 @@ http://zhaobing315.iteye.com/blog/2082189
 
 [分布式Session之使用Spring-Session & Redis实现]
 https://my.oschina.net/wangmengjun/blog/816571
+
+[译]Spring Session 与 Spring Security
+https://segmentfault.com/a/1190000005886388
